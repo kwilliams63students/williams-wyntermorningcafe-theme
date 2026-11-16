@@ -7,7 +7,7 @@
       "palette": [
         { "slug": "base", "color": "#F6EFE4", "name": "Steamed Milk" },
         { "slug": "contrast", "color": "#3B2418", "name": "Espresso" },
-        { "slug": "accent-1", "color": "#B5651D", "name": "Caramel" },
+        { "slug": "accent-1", "color": "#A65312", "name": "Caramel" },
         { "slug": "accent-2", "color": "#A3A98A", "name": "Sage" },
         { "slug": "accent-3", "color": "#7A5744", "name": "Mocha" },
         { "slug": "accent-4", "color": "#D8C3A5", "name": "Latte" },
