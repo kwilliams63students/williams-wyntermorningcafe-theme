@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "title": "Warm Evening",
+  "styles": {
+    "color": {
+      "background": "#3B2418",
+      "text": "#F6EFE4"
+    },
+    "elements": {
+      "heading": {
+        "color": {
+          "text": "#FFF9F0"
+        }
+      },
+      "link": {
+        "color": {
+          "text": "#D8C3A5"
+        }
+      }
+    },
+    "blocks": {
+      "core/button": {
+        "color": {
+          "background": "#B5651D",
+          "text": "#FFF9F0"
+        }
+      }
+    }
+  }
+}
